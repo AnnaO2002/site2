@@ -14,9 +14,3 @@
 	sdhfsjygfksz
 	еще одно изменнение какой раз
 	jhtfjtdhdht
-	10prakizmeneniye
-<<<<<<< HEAD
-	echo "hello new branch";
-=======
-	echo "master";
->>>>>>> master
